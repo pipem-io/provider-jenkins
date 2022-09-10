@@ -1,0 +1,6 @@
+image: docker.pipem.io/provider-jenkins
+version: VERSION
+
+replicas: 1
+
+provider: jenkins
